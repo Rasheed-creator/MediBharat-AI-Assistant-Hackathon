@@ -10,13 +10,14 @@ Clinical Documentation Automation - AI-powered transcription and SOAP note gener
 Patient Education - Condition-specific content in regional languages at accessible reading levels
 
 Technical Highlights:
-Uses IndicTrans2 for translation, Whisper for speech recognition, BioBERT for medical NER
-Knowledge graph for medical information and drug interactions
-Offline-first architecture for rural connectivity
-FHIR-compliant HMS integration
-Strict privacy controls with encryption and RBAC
+> Uses IndicTrans2 for translation, Whisper for speech recognition, BioBERT for medical NER.
+> Knowledge graph for medical information and drug interactions.
+> Offline-first architecture for rural connectivity.
+> FHIR-compliant HMS integration.
+> Strict privacy controls with encryption and RBAC
+
 Impact Targets:
-30% improvement in medication adherence
-25% reduction in doctor documentation time
-10,000+ users within 6 months
-Works on low-end smartphones with intermittent connectivity
+> 30% improvement in medication adherence.
+> 25% reduction in doctor documentation time.
+> 10,000+ users within 6 months.
+> Works on low-end smartphones with intermittent connectivity.
